@@ -1,0 +1,10 @@
+MIDlet-Name: BBCafApp
+MIDlet-Version: 0.0.1
+MIDlet-Vendor: BlackBerry Developer
+MIDlet-Jar-URL: BBCafApp.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Pace Cafeteria Item Locator,img/icon.png,
+RIM-MIDlet-Flags-1: 0
+

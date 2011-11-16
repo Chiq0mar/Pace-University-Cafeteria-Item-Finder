@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="BBCafApp">
+		<name >
+			Pace Cafeteria Item Locator
+		</name>
+		<description >
+			
+		</description>
+		<version >
+			0.0.1
+		</version>
+		<vendor >
+			BlackBerry Developer
+		</vendor>
+		<copyright >
+			Copyright (c) 2011 BlackBerry Developer
+		</copyright>
+		<fileset Java="1.54" _blackberryVersion="[6.0.0)">
+			<directory >
+				6.0.0
+			</directory>
+			<files >
+				BBCafApp.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>
